@@ -1,0 +1,7 @@
+{
+  "name": "helpecas",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
